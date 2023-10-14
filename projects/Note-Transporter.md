@@ -14,3 +14,22 @@
 
 
 
+## Tech Stack
+
+
+
+
+
+## Operations
+
+
+
+
+
+
+
+
+
+---
+
+[Back to README](../README.md)
